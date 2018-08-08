@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d62ba05e0b92e384ea631ae5df446394
+timeCreated: 1522529806
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - pickUp: {fileID: 1832612399857436, guid: b1e4c9cf24958e745b54a252ded210af, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
